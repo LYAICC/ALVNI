@@ -1,0 +1,10 @@
+# Validated on Python 3.9.23 with CUDA 12.8.
+# For a CPU-only installation, install the matching CPU build of PyTorch first.
+--extra-index-url https://download.pytorch.org/whl/cu128
+numpy==2.0.2
+networkx==3.2.1
+scipy==1.13.1
+torch==2.8.0+cu128
+torch-geometric==2.6.1
+matplotlib==3.9.4
+pandas==2.3.3
