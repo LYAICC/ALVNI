@@ -1,4 +1,4 @@
-LVNI reproduction package
+ALVNI reproduction package
 This package provides the ALVNI implementation and a small reproduction example using the Twitter network and cached SIR influence labels at $\beta/\beta_{\mathrm{th}} = 1.25$. 
 
 Files
